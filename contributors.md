@@ -26,7 +26,7 @@
 * Ukranian: [InqShanila]
 
 ### Additional Contributions
-* This system was initially based on the [boilerplate system] by @asacolips#1867
+* This system was initially based on the boilerplate system by @asacolips#1867
 * Icons used with permissions from [cftarbay]
 * Feedback and fixes by [eisenfuchs]
 * Feedback and fixes by @OldMightyFriendlyGamer#0832
@@ -63,3 +63,7 @@ Licensed WoD 5e materials will not be provided as this system is provided for pu
 [LorduFreeman]: https://github.com/LorduFreeman
 [Xuula]: https://github.com/Xuula
 [Rayji96]: https://github.com/Rayji96
+[FederSchakal]: https://github.com/FederSchakal
+[IHappyEndI]: https://github.com/IHappyEndI
+[InqShanila]: https://github.com/InqShanila
+[arcadio21]: https://github.com/arcadio21

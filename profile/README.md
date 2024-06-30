@@ -4,7 +4,7 @@ This is an organization comprising of the people who actively create and maintai
 
 We make sure that people can enjoy playing the World of Darkness 5e systems in Foundry. Currently, we provide support for:
 * Vampire the Masquerade 5th Edition
-* Hunter the Renegade 5th Edition
+* Hunter the Reckoning 5th Edition
 * Werewolf the Apocalypse 5th Edition
 
 With hopes to support any future 5th edition World of Darkness systems, as well!

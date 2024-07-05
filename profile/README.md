@@ -13,7 +13,7 @@ With hopes to support any future 5th edition World of Darkness systems, as well!
 
 The lead system developer is [Veilza](https://github.com/Veilza), and the original creator of the system is [Rayji96](https://github.com/Rayji96).
 
-There's lots of other people who contribute to the system, too, and you can find the full list of them down [here]([./contributors.md](https://github.com/WoD5E-Developers/.github/blob/main/contributors.md))!
+There's lots of other people who contribute to the system, too, and you can find the full list of them down [here](https://github.com/WoD5E-Developers/.github/blob/main/contributors.md)!
 
 ## Dark Pack
 

@@ -22,6 +22,7 @@
 * German: [tom959], [LorduFreeman], [FederSchakal]
 * Spanish: [erizocosmico], [Musrha]
 * Polish: [gbursson]
+* Polish WTA: Input by [anclywen], original translation by Tomasz Chmielik, Alias Games
 * Russian: [Xuula], [IHappyEndI]
 * Ukranian: [InqShanila]
 
@@ -67,3 +68,4 @@ Licensed WoD 5e materials will not be provided as this system is provided for pu
 [IHappyEndI]: https://github.com/IHappyEndI
 [InqShanila]: https://github.com/InqShanila
 [arcadio21]: https://github.com/arcadio21
+[anclywen]: https://github.com/anclywen

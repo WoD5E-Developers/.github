@@ -22,7 +22,7 @@
 * German: [tom959], [LorduFreeman], [FederSchakal]
 * Spanish: [erizocosmico], [Musrha]
 * Polish: [gbursson]
-* Polish WTA: Input by [anclywen], original translation by Tomasz Chmielik, Alias Games
+* Polish WTA: Input by [anclywen], original translation by Tomasz Chmielik, Alis Games
 * Russian: [Xuula], [IHappyEndI]
 * Ukranian: [InqShanila]
 

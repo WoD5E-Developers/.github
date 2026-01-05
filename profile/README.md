@@ -1,6 +1,6 @@
 # World of Darkness 5e Developers
 
-This is an organization comprising of the people who actively create and maintain the [World of Darkness 5e system](https://foundryvtt.com/packages/vtm5e/) on [FoundryVTT](https://foundryvtt.com/).
+This is an organization comprising of the people who actively create and maintain the [World of Darkness 5e system](https://foundryvtt.com/packages/wod5e/) on [FoundryVTT](https://foundryvtt.com/).
 
 We make sure that people can enjoy playing the World of Darkness 5e systems in Foundry. Currently, we provide support for:
 * Vampire the Masquerade 5th Edition

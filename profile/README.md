@@ -1,4 +1,4 @@
-# World of Darkness for FoundryVTT Developers
+# World of Darkness for FoundryVTT
 
 This is an organization comprising of the people who actively create and maintain the [World of Darkness 5e system](https://foundryvtt.com/packages/wod5e/) on [FoundryVTT](https://foundryvtt.com/).
 

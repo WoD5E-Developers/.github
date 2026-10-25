@@ -1,13 +1,14 @@
 # World of Darkness for FoundryVTT
 
-This is an organization comprising of the people who actively create and maintain the [World of Darkness 5e system](https://foundryvtt.com/packages/wod5e/) on [FoundryVTT](https://foundryvtt.com/).
+This is an organization comprising of the people who actively create and maintain the [World of Darkness 5e](https://foundryvtt.com/packages/wod5e/) and [World of Darkness 5e](https://foundryvtt.com/packages/wod6e/) systems on [FoundryVTT](https://foundryvtt.com/).
 
 We make sure that people can enjoy playing the World of Darkness systems in Foundry. Currently, we provide support for:
 * Vampire the Masquerade 5th Edition
 * Hunter the Reckoning 5th Edition
 * Werewolf the Apocalypse 5th Edition
+* Vampire the Masquerade 6th Edition
 
-With hopes to support any future 5th edition World of Darkness systems, as well as future World of Darkness editions, too!
+With hopes to support any future 5th and 6th edition World of Darkness systems as well!
 
 ## Contributors
 
